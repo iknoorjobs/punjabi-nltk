@@ -1,2 +1,2 @@
 # Punjabi-NLTK
-Natural Language ToolKit For Gurmukhi Punjabi
+Natural Language ToolKit For Gurmukhi Punjabi Language
