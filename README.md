@@ -2,7 +2,7 @@
 Natural Language ToolKit For Gurmukhi Punjabi Language
 
 Functions provided :
-1. Normalization
+1. Normalization of Punjabi text.
 2. Document to Bag of words conversion
 3. Document to TF-IDF conversion
 4. Advance average word vectorisation
